@@ -8,3 +8,5 @@ if time < 86401:
 else:
     print('wrong number')
     print("(h+min+sec)*0")git asggig asd
+    asdg
+    asdg
